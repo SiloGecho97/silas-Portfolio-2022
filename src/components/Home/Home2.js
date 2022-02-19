@@ -37,12 +37,11 @@ function Home2() {
               </i>
               <br />
               <br />
-              My field of Interest's are building new &nbsp;
+              Work seamlessly between frontend applications,
+               backend services. &nbsp;
               <i>
-                <b className="purple">Web Technologies and Development </b> and
-                also in areas related to{" "}
-                <b className="purple">
-                  Deep Learning and Natural Launguage Processing.
+                <b>
+                Skilled in Strong education professional with a Bachelor's degree focused in Software Engineering from Addis Ababa Institute of Technology.
                 </b>
               </i>
               <br />

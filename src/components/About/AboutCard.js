@@ -7,10 +7,12 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <blockquote className="blockquote mb-0">
-          <p style={{ textAlign: "justify" }}>
-            Hi Everyone, I am <span className="purple">Silas Getachew </span>
-            from <span className="purple"> Addis Ababa, Ethiopia.</span>
-            <br />Software Engineer for Addis Ababa Institute Technologies
+          <p style={{ textAlign: "justify",marginTop:"4rem" }}>
+            I am <span className="purple">Silas Getachew </span>
+            Software Developer based on  <span className="purple"> Addis Ababa, Ethiopia.</span>
+            <br/>
+            <br />Working seamlessly between frontend applications, backend services. Skilled in Javascript, Typescript, Full-Stack Development(MEVN, MERN), Strong education professional with a Bachelor's degree focused in Software Engineering from Addis Ababa Institute of Technology.
+
             <br />
             <br />
           </p>
