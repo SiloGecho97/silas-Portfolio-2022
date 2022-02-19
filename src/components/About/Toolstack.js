@@ -4,7 +4,6 @@ import { DiAws } from "react-icons/di";
 import {
   SiLinux,
   SiVisualstudiocode,
-  SiJupyter,
   SiPostman,
   SiHeroku,
   SiGit,

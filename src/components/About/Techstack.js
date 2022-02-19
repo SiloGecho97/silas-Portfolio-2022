@@ -1,15 +1,13 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
   DiNodejs,
   DiMongodb,
   DiCss3,
-  DiGit,
 } from "react-icons/di";
-import { SiAngularjs, SiVueDotJs,SiNuxtDotJs,SiRedis, SiTypescript, SiFirebase, SiGatsby, SiWebrtc, SiRails } from "react-icons/si";
+import { SiAngularjs, SiVueDotJs,SiNuxtDotJs,SiRedis, SiTypescript, SiGatsby, SiWebrtc, SiRails } from "react-icons/si";
 
 function Techstack() {
   return (
